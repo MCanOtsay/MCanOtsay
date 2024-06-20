@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MCanOtsay
-- 👀 I’m interested in SEO & internet stuff
+- 👀 I’m interested in SEO, search engines, SEO automation, web performance, creative & weird internet stuff
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on making SEO-related tools, productivity apps
 - 📫 How to reach me --> https://mcanotsay.com
