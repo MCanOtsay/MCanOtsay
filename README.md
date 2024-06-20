@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MCanOtsay
+- 👋 Hi, I’m Can
 - 👀 I’m interested in SEO, search engines, SEO automation, web performance, creative & weird internet stuff
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on making SEO-related tools, productivity apps
